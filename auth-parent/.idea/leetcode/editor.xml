@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../LeetCode/src/leetcode/editor/cn/ErWeiShuZuZhongDeChaZhaoLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../LeetCode/src/leetcode/editor/cn/doc/content/ErWeiShuZuZhongDeChaZhaoLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 04" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../LeetCode/src/leetcode/editor/cn/ErWeiShuZuZhongDeChaZhaoLcof.java" />
+              <option name="titleSlug" value="er-wei-shu-zu-zhong-de-cha-zhao-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
